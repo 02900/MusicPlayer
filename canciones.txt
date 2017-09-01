@@ -1,0 +1,4 @@
+Louis	Franco De Vita	Balada	/home/juan/Descargas/01 Louis.mp3
+Visa para un sueno	Juan Luis Guerra	Merengue	/home/juan/Descargas/01 Visa para un Sueno.mp3
+Swansong	Josh Woodward	Balada	/usr/share/example-content/Ubuntu_Free_Culture_Showcase/Josh Woodward - Swansong.ogg
+Un Derecho de Nacimiento	Natalia Lafourcade Juan Papito	SexRomactic	/home/juan/Descargas/Natalia Lafourcade - Un Derecho de Nacimiento.ogg
